@@ -62,12 +62,12 @@ p {
   position: relative;
 }
 
-/* Positioning of text for Search engine content */
+/* Positioning of text for Search engine and Social Media section */
 .float-left {
   float: left;
   margin-right: 25px;
 }
-
+/* Positioning of text for Online Reputation section */
 .float-right {
   float: right;
   margin-left: 25px;
@@ -115,7 +115,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/* appling styles to online reputation section */
 .online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
@@ -124,7 +124,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/* appling styles to Social media section */
 .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
@@ -134,29 +134,29 @@ p {
   color: #ffffff;
 }
 
-/* appling the image position and sizes for Search engine section */
+/* appling the image size for Search engine section */
 .search-engine-optimization img {
   max-height: 200px;
 }
-
+/* appling the image size for Online Reputation section */
 .online-reputation-management img {
   max-height: 200px;
 }
-
+/* appling the image size for Social Media section */
 .social-media-marketing img {
   max-height: 200px;
 }
-
+/* appling h2 text size for Search engine section */
 .search-engine-optimization h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* appling h2 text size for Online Reputation section */
 .online-reputation-management h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* appling h2 text size for Social Media section */
 .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
@@ -170,7 +170,7 @@ p {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
-
+/* appling h2 text size for footer section */
 .footer h2 {
   font-size: 20px;
 }
